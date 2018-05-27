@@ -1,0 +1,5 @@
+total 4
+-rw-rw-r-- 1 edureka edureka  0 May 28 01:35 a.txt
+-rw-rw-r-- 1 edureka edureka 24 May 28 02:12 b.txt
+-rw-rw-r-- 1 edureka edureka  0 May 28 01:35 c.txt
+-rw-rw-r-- 1 edureka edureka  0 May 28 02:14 d.txt
