@@ -1,4 +1,5 @@
-a.txt
-b.txt
-c.txt
-d.txt
+total 8
+-rw-rw-r-- 1 edureka edureka   0 May 28 01:35 a.txt
+-rw-rw-r-- 1 edureka edureka   0 May 28 04:38 b.txt
+-rw-rw-r-- 1 edureka edureka 212 May 28 02:29 c.txt
+-rw-rw-r-- 1 edureka edureka 212 May 28 02:16 d.txt
